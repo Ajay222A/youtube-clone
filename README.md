@@ -47,10 +47,9 @@ Youtube Clone/
 ├── Youtube_clone.html
 ├── style.css
 ├── images/
-│   └── ...
+│ └── ...
 │
 └── README.md
-
 
 The exact file and folder names may vary depending on your project structure.
 
@@ -59,7 +58,7 @@ The exact file and folder names may vary depending on your project structure.
 Follow these steps to run the project on your computer:
 
 1. Clone the repository
-git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone YOUR_GITHUB_REPOSITORY_URL
 
 2. Open the project folder
 
@@ -71,14 +70,13 @@ Open:
 
 Youtube_clone.html
 
-
 in your web browser.
 
 4. Using VS Code
 
 You can also use Visual Studio Code with the Live Server extension.
 
-Right-click on Youtube_clone.html and select:
+Right-click on index.html and select:
 
 Open with Live Server
 
@@ -86,8 +84,7 @@ Open with Live Server
 
 The website can currently be viewed locally using Live Server:
 
-http://127.0.0.1:5500/Youtube%20clone/Youtube_clone.html
-
+http://127.0.0.1:5500/index.html
 
 Note: This is a local development URL and can only be accessed on the computer where the project is running. It is not a public website.
 
